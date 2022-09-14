@@ -1,0 +1,4 @@
+Bem-vindo, caro aspirante a dev!
+
+Nesta aula, daremos continuidade aos nossos estudos sobre versionamento de
+arquivos e daremos nossos primeiros passos na ferramenta de versionamento Git.
